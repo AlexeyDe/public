@@ -1,0 +1,120 @@
+[33mcommit 7cd2329d6358fd5c5ed3c4c7c7ffd56107c83a3e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun May 8 17:52:34 2022 +0300
+
+    HomeWork 12 module
+
+[33mcommit 865635442c929290f170371425d75726217f814f[m
+Merge: 28ea3d7 befc468
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun May 8 17:40:16 2022 +0300
+
+    Merge branch 'master' of https://github.com/AlexeyDe/public
+
+[33mcommit 28ea3d7480de89d0a761f50021ff70991ff9c7fb[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun May 8 17:37:07 2022 +0300
+
+    homework 12 module
+
+[33mcommit befc46828040bae781968d66643a3b619c8872c0[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sat Apr 23 18:57:39 2022 +0300
+
+    Update README.md
+
+[33mcommit d5dc27230f6267e97735ce8d218feaa3b17ad5ba[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sat Apr 23 18:56:20 2022 +0300
+
+    my site test example
+
+[33mcommit e89d52fe66ec384edb20c0b55aa7231ccf4a7178[m
+Merge: 8aedecc 174251b
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun Apr 10 11:07:19 2022 +0300
+
+    Merge branch 'master' of https://github.com/AlexeyDe/public
+
+[33mcommit 8aedecc776b1aab920fecc846878d8f0c60589b5[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun Apr 10 11:06:14 2022 +0300
+
+    file added
+
+[33mcommit 174251ba3f1499a667d58896ca7405d41e7774f0[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sun Apr 10 11:01:09 2022 +0300
+
+    New file
+    
+    123
+
+[33mcommit bf453d353cd8517ed2f9d4463d39c2dc738fc7b3[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sat Apr 9 17:39:49 2022 +0300
+
+    super file
+    
+    ddd
+
+[33mcommit ae0e61e16a6685b8e164061ed7284cdf1d8cf6f0[m
+Merge: 19ed120 151a797
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 17:09:30 2022 +0300
+
+    Merge branch 'sub'
+
+[33mcommit 19ed12038649b31e0e952e68e8ce4f48112749f1[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 17:07:01 2022 +0300
+
+    newest modified a bit
+
+[33mcommit 151a7978858723451803b3c1028bcb8f4ede8ac3[m[33m ([m[1;31morigin/sub[m[33m, [m[1;32msub[m[33m)[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 17:00:00 2022 +0300
+
+    alternate is here
+
+[33mcommit ffbcd5d722f604de8c927c0f0982df86965e89a2[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 16:31:35 2022 +0300
+
+    new file added again
+
+[33mcommit 21d92e98c8f0b6241f7b854667032db103cf793f[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 16:23:05 2022 +0300
+
+    file has been removed
+
+[33mcommit 5fd4f394389b53e70a2606cdcda1385d38b94642[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 16:15:02 2022 +0300
+
+    everything fine
+
+[33mcommit 51a70e4b707aa5f12539c5ef5dd5b1ba6bf7e84e[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 16:09:10 2022 +0300
+
+    newest file added
+
+[33mcommit 660692c7c57e9323dd26e3c4d84640b39f863bf7[m
+Author: unknown <Ade271087@gmail.com>
+Date:   Sat Apr 9 15:52:42 2022 +0300
+
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 4b4fd5b1b19443aa92eaeb86ba1030528a25f514[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sat Apr 9 11:54:27 2022 +0300
+
+    Update README.md
+
+[33mcommit f934aebe3dd9b56374800e5815a841b75b9eaf93[m
+Author: AlexeyDe <103239096+AlexeyDe@users.noreply.github.com>
+Date:   Sat Apr 9 11:54:14 2022 +0300
+
+    Initial commit
